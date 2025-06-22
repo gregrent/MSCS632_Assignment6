@@ -1,3 +1,7 @@
+// MSCS 632 Assignment 6
+// Multi-threaded Data Processing System
+// Using Concurrency and Exception Handling
+
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.locks.*;
